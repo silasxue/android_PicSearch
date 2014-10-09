@@ -1,0 +1,4 @@
+gvim无法自动保存当前的设置，比如字体、配色方案。所以需要修改一下gvim的配置文件，使得每次都可以载入我们所希望的设置。
+修改vim安装目录下的_vimrc文件，把配色方案设置成黑色背景灰色文字的koehler方案，设置字体大小为14，这样看得不会太辛苦。把下面的代码复制到_vimrc文件的末尾就OK了。
+colo koehler
+set guifont=Courier_New:h14:cANSI
