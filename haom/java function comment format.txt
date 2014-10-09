@@ -1,0 +1,8 @@
+/**
+ * @Author:HaoMing(ºÂÃ÷)
+ * @Project_name:${project_name}
+ * @Full_path:${package_name}.${file_name}
+ * @Date:@${year} ${date} ${time}
+ * @Return_type:${return_type}
+ * @Desc :
+ */
