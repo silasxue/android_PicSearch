@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图像搜索</string>
+    <string name="productName">产品名称</string>
+    <string name="brandName">品牌名称</string>
+    <string name="companyName">公司名</string>
+    <string name="originAddr">出厂地</string>
+    <string name="originTime">出厂时间</string>
+    <string name="server_error">服务器异常,请联系管理员。</string>
+    <string name="net_fail">请您先连接网络</string>
+    <string name="no_return_result">没有返回查询结果</string>
+    <string name="result_title">搜索结果</string>
+
+</resources>
